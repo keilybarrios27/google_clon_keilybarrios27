@@ -5,7 +5,7 @@ Proyecto Clon de google con HTML y CSS
 
 * [	:speech_balloon: 1. Intro ](https://github.com/keilybarrios27/google_clon_keilybarrios27/blob/main/README.md#1-intro)
 * [🛠 2. Qué construí ](https://github.com/keilybarrios27/google_clon_keilybarrios27/blob/main/README.md#2-qu%C3%A9-constru%C3%AD)
-* [:high_brightness: 3. Objetivo del proyecto ](#)
+* [:high_brightness: 3. Objetivo del proyecto ](https://github.com/keilybarrios27/google_clon_keilybarrios27/blob/main/README.md#3-objetivo-del-proyecto)
 
 ****
 ## 1. Intro
