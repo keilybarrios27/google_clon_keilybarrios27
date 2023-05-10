@@ -3,9 +3,9 @@ Proyecto Clon de google con HTML y CSS
 
 ## ÍNDICE
 
-* [	:speech_balloon: 1. Intro ](https://github.com/nancynsalazar/cloninterfazgoogle#1-intro)
-* [🛠 2. Qué construí ](https://github.com/nancynsalazar/cloninterfazgoogle#2-qu%C3%A9-constru%C3%AD)
-* [:high_brightness: 3. Objetivo del proyecto ](https://github.com/nancynsalazar/cloninterfazgoogle#3-objetivo-del-proyecto)
+* [	:speech_balloon: 1. Intro ](https://github.com/keilybarrios27/cloninterfazgoogle#1-intro)
+* [🛠 2. Qué construí ](https://github.com/keilybarrios27/cloninterfazgoogle#2-qu%C3%A9-constru%C3%AD)
+* [:high_brightness: 3. Objetivo del proyecto ](https://github.com/keilybarrios27/cloninterfazgoogle#3-objetivo-del-proyecto)
 
 ****
 ## 1. Intro
